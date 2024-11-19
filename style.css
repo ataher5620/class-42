@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+}
+.main-hero{
+    background-image: url("/bg.png");
+    height: 1200px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.main-hero-c{
+    height: 982px;
+}
